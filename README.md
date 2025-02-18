@@ -6,6 +6,7 @@
   <li><b>Biopython</b></li>
   <li><b>PhyML</b></li>
   <li><b>QBlast</b></li>
+  <li><b>NCBI exploration</b></li>
 </ul>
 
   
