@@ -1,8 +1,10 @@
 <h1>Hi, I'm Silvio! <br/><a href="https://github.com/joshmadakor1">Biotechnologist</a> and Bioinformatician
 
-<h2>🔬 Bioinformatics Projects:</h2>
+<h2>🔬 Bioinformatics Projects: </h2> 
+<h3>https://github.com/SilvioValli/Bio-Projects</h3>
 - <b>Biopython</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>PhyML</b>
+- <b>QBlast</b>
   
 <h2>👨‍💻 General Projects:</h2>
 - <b>Python</b>
