@@ -4,12 +4,12 @@
 - <b>Biopython</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
-<h2> General Projects:</h2>
+<h2>👨‍💻 General Projects:</h2>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>R</b>
 
-<h2>👨‍💻 Machine Learning Projects</h2>
+<h2>📊 Machine Learning Projects</h2>
 -To fill...
 
 <h2> 🤳 Connect with me:</h2>
