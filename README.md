@@ -1,11 +1,13 @@
 <h1>Hi, I'm Silvio! <br/><a href="https://github.com/joshmadakor1">Biotechnologist</a> and Bioinformatician
 
 <h2>🔬 Bioinformatics Projects:</h2>
-
 - <b>Biopython</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+<h2> General Projects:</h2>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>R</b>
 
 <h2>👨‍💻 Machine Learning Projects</h2>
 -To fill...
