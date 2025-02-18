@@ -1,19 +1,21 @@
 <h1>Hi, I'm Silvio! <br/><a href="https://github.com/joshmadakor1">Biotechnologist</a> and Bioinformatician
 
 <h2>🔬 Bioinformatics Projects: </h2> 
-
+<h4>https://github.com/SilvioValli/Bio-Projects</h4>
 <ul>
   <li><b>Biopython</b></li>
   <li><b>PhyML</b></li>
   <li><b>QBlast</b></li>
 </ul>
-<h4>https://github.com/SilvioValli/Bio-Projects</h4>
+
   
 <h2>👨‍💻 General Projects:</h2>
+<h4>https://github.com/SilvioValli/General-Projects</h4>
 <ul>
   <li><b>Python</b></li>
   <li><b>R</b></li>
 </ul>
+
 
 <h2>📊 Machine Learning Projects</h2>
 -To fill...
