@@ -3,9 +3,8 @@
 <h2>🔬 Bioinformatics Projects: </h2> 
 <!--<h4>https://github.com/SilvioValli/Bio-Projects</h4>-->
 <ul>
-  <li><b>Biopython</b></li>(PhyML, QBlast, NCBI exploration, etc.)
-  </br>https://github.com/SilvioValli/Bio-Projects/tree/main/Biopython
-  <li><b>Biological problems</b></li> (Populations behaviours, DNA sequences, etc.)
+  <li><b>Biopython --> https://github.com/SilvioValli/Bio-Projects/tree/main/Biopython</b></li>(PhyML, QBlast, NCBI exploration, etc.)
+  <li><b>Biological related projects</b></li> (Populations behaviours, DNA sequences, etc.)
 </ul>
 
   
