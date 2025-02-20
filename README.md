@@ -3,10 +3,8 @@
 <h2>🔬 Bioinformatics Projects: </h2> 
 <h4>https://github.com/SilvioValli/Bio-Projects</h4>
 <ul>
-  <li><b>Biopython</b></li>
-  <li><b>PhyML</b></li>
-  <li><b>QBlast</b></li>
-  <li><b>NCBI exploration</b></li>
+  <li><b>Biopython</b></li> (PhyML, QBlast, NCBI exploration, etc.)
+  <li><b>Biological problems</b></li> (Populations behaviours, DNA sequences, etc.)
 </ul>
 
   
