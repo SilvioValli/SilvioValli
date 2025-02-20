@@ -1,10 +1,10 @@
 <h1>Hi, I'm Silvio! <br/><a>Biotechnologist</a>(junior) & aspiring Bioinformatician
 
 <h2>🔬 Bioinformatics Projects: </h2> 
-<!--<h4>https://github.com/SilvioValli/Bio-Projects</h4>-->
+<h4>https://github.com/SilvioValli/Bio-Projects</h4>
 <ul>
-  <li><b>Biopython --> https://github.com/SilvioValli/Bio-Projects/tree/main/Biopython</b></li>(PhyML, QBlast, NCBI exploration, etc.)
-  <li><b>Biological related projects --> https://github.com/SilvioValli/Bio-Projects/tree/main/Biological%20related%20projects</b></li> (Populations behaviours, DNA sequences, etc.)
+  <li><b>Biopython --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/Biopython">(...)</a> </b></li>(PhyML, QBlast, NCBI exploration, etc.)
+  <li><b>Biological related projects --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/Biological%20related%20projects">(...)</a></b></li> (Populations behaviours, DNA sequences, etc.)
 </ul>
 
   
