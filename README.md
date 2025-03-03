@@ -4,7 +4,7 @@
 <h4>https://github.com/SilvioValli/Bio-Projects</h4>
 <ul>
   <li><b>Biopython --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/Biopython">(...)</a> </b></li>(PhyML, QBlast, NCBI exploration, etc.)
-  <li><b>Biological related projects --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/Biological%20related%20projects">(...)</a></b></li> (Populations behaviours, DNA sequences, etc.)
+  <li><b>Biological related projects --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/Biological%20related%20projects">(...)</a></b></li> (Population behaviour, DNA sequences, etc.)
 </ul>
 
   
