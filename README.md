@@ -11,7 +11,6 @@
 <h2>👨‍💻 General Projects:</h2>
 <h4>https://github.com/SilvioValli/General-Projects</h4>
 <ul>
-  <li><b>Python</b></li>
   <li><b>R</b></li>
 </ul>
 
