@@ -17,7 +17,9 @@
 
 <h2>📊 Machine Learning Projects</h2>
 <h4>https://github.com/SilvioValli/Machine-Learning-Projects</h4>
--To fill...
+<ul>
+  <li><b>Classification</b> --> <a href="https://github.com/SilvioValli/Machine-Learning-Projects/tree/main/CLASSIFICATION">(...)</a> </b></li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 -To fill...
