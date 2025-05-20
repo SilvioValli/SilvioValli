@@ -13,6 +13,9 @@
 <ul>
   <li><b>R</b> --> <a href="https://github.com/SilvioValli/General-Projects/tree/main/R">(...)</a> </b></li>
 </ul>
+<ul>
+  <li><b>Statistics & R</b> --> <a href="https://github.com/SilvioValli/General-Projects/tree/main/R">(...)</a> </b></li>
+</ul>
 
 
 <h2>📊 Machine Learning Projects</h2>
