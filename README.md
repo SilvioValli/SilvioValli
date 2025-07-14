@@ -26,7 +26,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <ul>
-  <li><b>Linkedin</b> --> <a href="https://github.com/SilvioValli/Machine-Learning-Projects/tree/main/CLASSIFICATION">(...)</a> </b></li>
+  <li><b>Linkedin</b> --> <a href="https://www.linkedin.com/in/silvio-valli-86842b327/">(...)</a> </b></li>
 </ul>
 
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
