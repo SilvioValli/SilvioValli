@@ -25,7 +25,9 @@
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
--To fill...
+<ul>
+  <li><b>Linkedin</b> --> <a href="https://github.com/SilvioValli/Machine-Learning-Projects/tree/main/CLASSIFICATION">(...)</a> </b></li>
+</ul>
 
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
