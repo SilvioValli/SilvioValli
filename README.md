@@ -1,4 +1,4 @@
-<h1>Hi, I'm Silvio! <br/><a>Biotechnologist</a>(junior) & aspiring Bioinformatician
+<h1>Hi, I'm Silvio! <br/><a>Biotechnologist</a>(junior) & Bioinformatician (junior)
 
 <h2>🔬 Bioinformatics Projects: </h2> 
 <h4>https://github.com/SilvioValli/Bio-Projects</h4>
