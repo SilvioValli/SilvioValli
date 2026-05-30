@@ -5,7 +5,7 @@
 <ul>
   <li><b>Biopython --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/Biopython">(...)</a> </b></li>(PhyML, QBlast, NCBI exploration, etc.)
   <li><b>Biological related projects --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/Biological%20related%20projects">(...)</a></b></li> (Population behaviour, DNA sequences, etc.)
-  <li><b>Bulk-RNA seq --> <a href="type something">(...)</a></b></li> (DESeq2)
+  <li><b>Bulk-RNA seq --> <a href="https://github.com/SilvioValli/Bio-Projects/tree/main/BulkRNA">(...)</a></b></li> (DESeq2)
 </ul>
 
   
